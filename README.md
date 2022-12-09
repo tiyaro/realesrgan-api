@@ -20,8 +20,5 @@ Using Tiyaro, developers can instantly search, compare and use the world's best 
 ## Sample code
 - https://github.com/tiyaro/code-samples
 
-## Blogs
-- https://www.tiyaro.ai/blog/stable-diffusion/
-
 ## Usecases
 imgage enhancement, image denoising, image upscaling, image restoration
